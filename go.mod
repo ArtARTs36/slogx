@@ -5,7 +5,6 @@ go 1.21
 require (
 	github.com/stretchr/testify v1.8.2
 	github.com/tomasen/realip v0.0.0-20180522021738-f0c99a92ddce
-	golang.org/x/exp v0.0.0-20230425010034-47ecfdc1ba53
 )
 
 require (
